@@ -5,6 +5,7 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 ---
 
 ## ✅ Devtown Certificates
+### Python Zero to Hero
 
 ### 🏆 Certificate of Appreciation  
 - 🔗 [View PDF](./devtown_python_zero_to_hero/devtown_appreciation.pdf)  
@@ -22,7 +23,9 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 - 🔗 [View PDF](./devtown_python_zero_to_hero/devtown_microsoft.pdf)  
 ![Microsoft](./devtown_python_zero_to_hero/devtown_microsoft.jpg)
 
-### 🧾 SQL for Analyst Workshop  
+--- 
+
+### 🧾 Devtown - SQL for Analyst Workshop  
 - 🔗 [View PDF](./devtown_sql_for_analyst/devtown_sql_analyst.pdf)  
 ![SQL](./devtown_sql_for_analyst/devtown_sql_analyst.jpg)
 
@@ -31,6 +34,19 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 ## 📊 Simplilearn – Introduction to Data Analytics  
 - 🔗 [View PDF](./simplilearn_intro_data_analytics.pdf)  
 ![Intro to Analytics](./simplilearn_intro_data_analytics.jpeg)
+
+---
+
+## 🧪 Published Research Paper
+
+### 📄 Machine Learning-Based [CROPIFY] – IJCRT  
+- 🔗 [View Full Paper (PDF)](https://www.ijcrt.org/papers/IJCRT24A4305.pdf)  
+- 🔗 [Official Journal Page](https://ijcrt.org/viewfull.php?&p_id=IJCRT24A4305)
+- 🔗 [View PDF](./IJCRT/IJCRT.pdf)
+![IJCRT Paper Preview](./IJCRT/IJCRT.jpg)
+
+> Published in the International Journal of Creative Research Thoughts (IJCRT), April 2024.  
+This research focuses on [brief summary: e.g., applying machine learning models to XYZ domain, or analyzing ABC patterns].  
 
 ---
 
