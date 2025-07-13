@@ -15,11 +15,11 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 - 🔗 [View PDF](./devtown_python_zero_to_hero/devtown_participation_python_zerotohero.pdf)  
 ![Participation](./devtown_python_zero_to_hero/devtown_participation_python_zerotohero.jpg)
 
-### 💼 Google Cloud Virtual Internship (Devtown)  
+### 💼 Certificate of Project Completion (Devtown)  
 - 🔗 [View PDF](./devtown_python_zero_to_hero/devtown_google.pdf)  
 ![Google Internship](./devtown_python_zero_to_hero/devtown_google.png)
 
-### 🧠 Microsoft Azure Fundamentals Workshop  
+### 🧠 Certificate of Project Completion (Devtown)
 - 🔗 [View PDF](./devtown_python_zero_to_hero/devtown_microsoft.pdf)  
 ![Microsoft](./devtown_python_zero_to_hero/devtown_microsoft.jpg)
 
@@ -48,5 +48,14 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 > Published in the International Journal of Creative Research Thoughts (IJCRT), April 2024.  
 
 ---
+
+## 🛠️ Guardneer Data Analyst Internship Certificate
+
+- 🔗 [View PDF Certificate](./guardneer_intership/internship_gardneer.pdf)  
+![Guardneer Certificate](./guardneer_intership/internship_gardneer.jpg)
+
+> Completed a 6-month professional internship as a Data Analyst, working on real-world projects in smart farming, water quality analytics, and customer segmentation.
+> Tools used: Python, SQL, Excel, Tableau.
+
 
 > ✅ These certifications validate my ongoing learning in data analytics, cloud, SQL, and real-world business intelligence tools.
