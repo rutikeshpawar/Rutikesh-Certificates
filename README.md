@@ -1,39 +1,37 @@
 # 📜 Professional Certificates – Rutikesh Pawar
 
-This repository contains verified certificates earned from Devtown, Simplilearn, and other learning platforms during my data analytics journey.
+This repository contains verified certificates earned from Devtown, Simplilearn, and other learning platforms.
 
 ---
 
 ## ✅ Devtown Certificates
 
 ### 🏆 Certificate of Appreciation  
-- [🔗 View Certificate](https://cert.devtown.in/verify/1f5U99)  
-![Appreciation](./devtown_appreciation.png)
+- 🔗 [View PDF](./devtown_appreciation.pdf)  
+![Appreciation](./devtown_appreciation.jpeg)
 
 ### 🎓 Certification of Participation  
-- [🔗 View Certificate](https://cert.devtown.in/verify/1pUjwE)  
-![Participation](./devtown_participation.png)
+- 🔗 [View PDF](./devtown_participation.pdf)  
+![Participation](./devtown_participation.jpeg)
 
 ### 💼 Google Cloud Virtual Internship (Devtown)  
-- [🔗 View Certificate](https://cert.devtown.in/verify/Z2rGktT)  
-![Google](./devtown_google.png)
+- 🔗 [View PDF](./devtown_google.pdf)  
+![Google Internship](./devtown_google.jpeg)
 
 ### 🧠 Microsoft Azure Fundamentals Workshop  
-- [🔗 View Certificate](https://cert.devtown.in/verify/1WWBsQ)  
-![Microsoft](./devtown_microsoft.png)
+- 🔗 [View PDF](./devtown_microsoft.pdf)  
+![Microsoft](./devtown_microsoft.jpeg)
 
 ### 🧾 SQL for Analyst Workshop  
-- [🔗 View Certificate](https://cert.devtown.in/verify/Ztydnm)  
-![SQL](./devtown_sql_analyst.png)
+- 🔗 [View PDF](./devtown_sql_analyst.pdf)  
+![SQL](./devtown_sql_analyst.jpeg)
 
 ---
 
-## 📊 Simplilearn – Introduction to Data Analytics
-
-- [🔗 View Certificate](https://simpli.app.link/43KAuHtXUUb)  
-![Intro to Analytics](./simplilearn_intro_data_analytics.png)
+## 📊 Simplilearn – Introduction to Data Analytics  
+- 🔗 [View PDF](./simplilearn_intro_data_analytics.pdf)  
+![Intro to Analytics](./simplilearn_intro_data_analytics.jpeg)
 
 ---
 
-> ✅ These certificates validate my ongoing learning in data analytics, cloud, and SQL tools.
-
+> ✅ These certifications validate my ongoing learning in data analytics, cloud, SQL, and real-world business intelligence tools.
