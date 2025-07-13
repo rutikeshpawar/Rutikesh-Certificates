@@ -32,8 +32,8 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 ---
 
 ## 📊 Simplilearn – Introduction to Data Analytics  
-- 🔗 [View PDF](./simplilearn_intro_data_analytics.pdf)  
-![Intro to Analytics](./simplilearn_intro_data_analytics.jpeg)
+- 🔗 [View PDF](./simplilearn/simplilearn_intro_data_analytics.pdf)  
+![Intro to Analytics](./simplilearn/simplilearn_intro_data_analytics.jpg)
 
 ---
 
@@ -46,7 +46,6 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 ![IJCRT Paper Preview](./IJCRT/IJCRT.jpg)
 
 > Published in the International Journal of Creative Research Thoughts (IJCRT), April 2024.  
-This research focuses on [brief summary: e.g., applying machine learning models to XYZ domain, or analyzing ABC patterns].  
 
 ---
 
