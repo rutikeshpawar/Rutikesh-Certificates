@@ -8,19 +8,19 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 
 ### 🏆 Certificate of Appreciation  
 - 🔗 [View PDF](./devtown_python_zero_to_hero/devtown_appreciation.pdf)  
-![Appreciation](./devtown_python_zero_to_hero/devtown_appreciation.jpeg)
+![Appreciation](./devtown_python_zero_to_hero/devtown_appreciation.jpg)
 
 ### 🎓 Certification of Participation  
-- 🔗 [View PDF](./devtown_participation.pdf)  
-![Participation](./devtown_participation.jpeg)
+- 🔗 [View PDF](./devtown_python_zero_to_hero/devtown_participation.pdf)  
+![Participation](./devtown_python_zero_to_hero/devtown_participation.jpg)
 
 ### 💼 Google Cloud Virtual Internship (Devtown)  
-- 🔗 [View PDF](./devtown_google.pdf)  
-![Google Internship](./devtown_google.jpeg)
+- 🔗 [View PDF](./devtown_python_zero_to_hero/devtown_google.pdf)  
+![Google Internship](./devtown_python_zero_to_hero/devtown_google.jpg)
 
 ### 🧠 Microsoft Azure Fundamentals Workshop  
-- 🔗 [View PDF](./devtown_microsoft.pdf)  
-![Microsoft](./devtown_microsoft.jpeg)
+- 🔗 [View PDF](./devtown_python_zero_to_hero/devtown_microsoft.pdf)  
+![Microsoft](./devtown_python_zero_to_hero/devtown_microsoft.jpg)
 
 ### 🧾 SQL for Analyst Workshop  
 - 🔗 [View PDF](./devtown_sql_analyst.pdf)  
