@@ -7,8 +7,8 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 ## ✅ Devtown Certificates
 
 ### 🏆 Certificate of Appreciation  
-- 🔗 [View PDF](./devtown_appreciation.pdf)  
-![Appreciation](./devtown_appreciation.jpeg)
+- 🔗 [View PDF](./devtown_python_zero_to_hero/devtown_appreciation.pdf)  
+![Appreciation](./devtown_python_zero_to_hero/devtown_appreciation.jpeg)
 
 ### 🎓 Certification of Participation  
 - 🔗 [View PDF](./devtown_participation.pdf)  
