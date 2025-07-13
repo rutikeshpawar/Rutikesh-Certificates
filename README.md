@@ -23,8 +23,8 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 ![Microsoft](./devtown_python_zero_to_hero/devtown_microsoft.jpg)
 
 ### 🧾 SQL for Analyst Workshop  
-- 🔗 [View PDF](./devtown_sql_analyst.pdf)  
-![SQL](./devtown_sql_analyst.jpeg)
+- 🔗 [View PDF](./devtown_sql_for_analyst/devtown_sql_analyst.pdf)  
+![SQL](./devtown_sql_for_analyst/devtown_sql_analyst.jpg)
 
 ---
 
