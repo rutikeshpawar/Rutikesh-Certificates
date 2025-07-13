@@ -11,12 +11,12 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 ![Appreciation](./devtown_python_zero_to_hero/devtown_appreciation.jpg)
 
 ### 🎓 Certification of Participation  
-- 🔗 [View PDF](./devtown_python_zero_to_hero/devtown_participation.pdf)  
-![Participation](./devtown_python_zero_to_hero/devtown_participation.jpg)
+- 🔗 [View PDF](./devtown_python_zero_to_hero/devtown_participation_python_zerotohero.pdf)  
+![Participation](./devtown_python_zero_to_hero/devtown_participation_python_zerotohero.jpg)
 
 ### 💼 Google Cloud Virtual Internship (Devtown)  
 - 🔗 [View PDF](./devtown_python_zero_to_hero/devtown_google.pdf)  
-![Google Internship](./devtown_python_zero_to_hero/devtown_google.jpg)
+![Google Internship](./devtown_python_zero_to_hero/devtown_google.png)
 
 ### 🧠 Microsoft Azure Fundamentals Workshop  
 - 🔗 [View PDF](./devtown_python_zero_to_hero/devtown_microsoft.pdf)  
