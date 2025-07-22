@@ -4,6 +4,15 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 
 ---
 
+## 📊 ExcelR Data Analytics Certification
+
+- 🔗 [View Certificate PDF](./ExcelR_DA_Certificate_Rutikesh.pdf)  
+![ExcelR Certificate Preview](./ExcelR_DA_Certificate_Rutikesh.jpg)
+
+> Completed with distinction. Skills covered: SQL, Excel, Power BI, Tableau, Python, EDA, ML, Dashboarding.
+
+--- 
+
 ## ✅ Devtown Certificates
 ### Python Zero to Hero
 
