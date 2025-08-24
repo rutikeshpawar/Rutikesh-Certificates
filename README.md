@@ -68,7 +68,7 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 
 ## 🛠️ Deloitte Certificate
 
-- 🔗 [View PDF Certificate](https://github.com/rutikeshpawar/Rutikesh-Certificates/blob/56ee139321df937cf8f85e7f4c11dbb122d95f8e/Deloitte-Certification/Deloitte%20Certification.png)  
+- 🔗 [View PDF Certificate](https://github.com/rutikeshpawar/Rutikesh-Certificates/blob/734287a4a76a5d2b7ac9bdebdeb39e73a178c285/Deloitte-Certification/Deloitte%20Certification.pdf)  
 ![Guardneer Certificate](https://github.com/rutikeshpawar/Rutikesh-Certificates/blob/56ee139321df937cf8f85e7f4c11dbb122d95f8e/Deloitte-Certification/Deloitte%20Certification.png)
 
 
