@@ -68,8 +68,8 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 
 ## 🛠️ Deloitte Certificate
 
-- 🔗 [View PDF Certificate](Deloitte-Certification/Deloitte Certification.pdf)  
-![Guardneer Certificate](Deloitte-Certification/Deloitte Certification.png)
+- 🔗 [View PDF Certificate](./Deloitte-Certification/Deloitte Certification.pdf)  
+![Guardneer Certificate](./Deloitte-Certification/Deloitte Certification.png)
 
 
 > ✅ These certifications validate my ongoing learning in data analytics, cloud, SQL, and real-world business intelligence tools.
