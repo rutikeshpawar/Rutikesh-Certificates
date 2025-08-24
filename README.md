@@ -68,8 +68,8 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 
 ## 🛠️ Deloitte Certificate
 
-- 🔗 [View PDF Certificate](./Deloitte-Certification/Deloitte Certification.pdf)  
-![Guardneer Certificate](./Deloitte-Certification/Deloitte Certification.png)
+- 🔗 [View PDF Certificate](https://github.com/rutikeshpawar/Rutikesh-Certificates/blob/56ee139321df937cf8f85e7f4c11dbb122d95f8e/Deloitte-Certification/Deloitte%20Certification.png)  
+![Guardneer Certificate](https://github.com/rutikeshpawar/Rutikesh-Certificates/blob/56ee139321df937cf8f85e7f4c11dbb122d95f8e/Deloitte-Certification/Deloitte%20Certification.png)
 
 
 > ✅ These certifications validate my ongoing learning in data analytics, cloud, SQL, and real-world business intelligence tools.
