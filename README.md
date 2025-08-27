@@ -19,9 +19,9 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 - **Date:** August 2025  
 - **Credential ID:** 102439166OCI25DSOCP  
 
-![Certificate Preview](OCI_DS_Certificate.png)
+![Certificate Preview](oracle-certifications/OCI_DS_Certificate.png)
 
-📄 [View Full Certificate (PDF)](OCI_DS_Certificate.pdf)
+📄 [View Full Certificate (PDF)](oracle-certifications/OCI_DS_Certificate.pdf)
 
 ---
 
