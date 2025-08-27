@@ -23,6 +23,9 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 
 📄 [View Full Certificate (PDF)](oracle-certifications/OCI_DS_Certificate.pdf)
 
+![Badge Preview](oracle-certifications/Oracle_Badge.jpg)
+
+🔗 [Bagde Link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=45EA605BA40004C8B27D35A41BB5F4008A95D96B2130E4F33D9EBA86278EEFC1)
 ---
 
 This certification validates my skills in:
