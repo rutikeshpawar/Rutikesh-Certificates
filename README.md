@@ -13,6 +13,29 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 
 --- 
 
+## Oracle Cloud Infrastructure 2025 Certified Data Science Professional
+
+- **Issued by:** Oracle  
+- **Date:** August 2025  
+- **Credential ID:** 102439166OCI25DSOCP  
+
+![Certificate Preview](OCI_DS_Certificate.png)
+
+📄 [View Full Certificate (PDF)](OCI_DS_Certificate.pdf)
+
+---
+
+This certification validates my skills in:
+
+- Data Science & Machine Learning  
+- Statistical Modeling & Predictive Analytics  
+- SQL & Data Querying  
+- Cloud-based Data Analytics (Oracle Cloud Infrastructure)  
+- Model Deployment & Automation  
+
+---
+
+
 ## ✅ Devtown Certificates
 ### Python Zero to Hero
 
