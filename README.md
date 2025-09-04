@@ -13,6 +13,38 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 
 --- 
 
+## 🎓 Professional Certifications
+
+## Oracle Certified Foundations Associate
+**Issued by:** Oracle University  
+**Certificate ID:** 3221164010CIC25DCFA  
+**Issue Date:** September 03, 2025  
+**Valid Until:** September 03, 2027  
+
+![Oracle Badge](data_platform_badge.png)
+
+---
+
+### 📜 Certificate (Preview)
+![Oracle Certificate](data_platform.png)
+
+📂 [View Full PDF Certificate](data_platform.pdf)
+
+---
+
+### 🌟 Why this Certification Matters
+This certification validates my foundational skills in:
+- Oracle Data Platform
+- Database fundamentals
+- Data management & analytics concepts  
+
+It strengthens my path as a **Data Analyst & Data Scientist** by showcasing my ability to work with enterprise-level database systems.
+
+---
+
+
+--- 
+
 ## Oracle Cloud Infrastructure 2025 Certified Data Science Professional
 
 - **Issued by:** Oracle  
