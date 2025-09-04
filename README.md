@@ -21,14 +21,16 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 **Issue Date:** September 03, 2025  
 **Valid Until:** September 03, 2027  
 
-![Oracle Badge](data_platform_badge.png)
+![Oracle Badge](oracle-certifications/data_platform/data_platform_badge.png)
 
 ---
 
 ### 📜 Certificate (Preview)
-![Oracle Certificate](data_platform.png)
+![Oracle Certificate](oracle-certifications/data_platform/data_platform.png)
 
-📂 [View Full PDF Certificate](data_platform.pdf)
+📂 [View Full PDF Certificate](oracle-certifications/data_platform/data_platform.pdf)
+
+🔗 [Bagde Link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=45EA605BA40004C8B27D35A41BB5F400722589C68A321F67D0BB8CEE780F2DFE)
 
 ---
 
