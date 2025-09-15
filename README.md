@@ -12,6 +12,27 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 > Completed with distinction. Skills covered: SQL, Excel, Power BI, Tableau, Python, EDA, ML, Dashboarding.
 
 --- 
+# 📜 Certifications Repository
+
+This repository showcases my professional certifications in **Data Analytics and Data Science**.
+
+---
+
+## 🏅 Featured Certification
+
+### NASSCOM Certificate Program in Data Analyst  
+- **Issued by:** IT-ITeS Sector Skills Council NASSCOM  
+- **Date of Issue:** 14/09/2025  
+- **Certification ID:** FSP/2025/9/10241684  
+- **Category:** Gold  
+- **Score:** 92%  
+
+📂 [Download Certificate PDF](./nasscom.pdf)  
+
+### 📸 Certificate Preview
+![NASSCOM Certificate](./nasscom_certificate.png)
+
+---
 
 ## 🎓 Professional Certifications
 
