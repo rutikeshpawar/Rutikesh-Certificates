@@ -22,7 +22,7 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 - **Category:** Gold  
 - **Score:** 92%  
 
-📂 [Download Certificate PDF](./https://github.com/rutikeshpawar/Rutikesh-Certificates/raw/183d6ead27573e55b6ae1fda9d9695b480dd23f9/nasscom.pdf)  
+📂 [Download Certificate PDF](./nasscom.pdf)  
 
 ### 📸 Certificate Preview
 ![NASSCOM Certificate](./nasscom_1.png)
