@@ -22,7 +22,7 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 - **Category:** Gold  
 - **Score:** 92%  
 
-📂 [Download Certificate PDF](./nasscom.pdf)  
+📂 [View Certificate PDF](./nasscom.pdf)  
 
 ### 📸 Certificate Preview
 ![NASSCOM Certificate](./nasscom_1.png)
