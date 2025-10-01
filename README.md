@@ -22,7 +22,7 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
   - SQL, Python, Excel, Tableau  
   - Real-world problem solving  
 
-📂 [Download Certificate (PDF)](./Elavate_Lab/ElevateLabs_Certificate.pdf)  
+📂 [Download Certificate (PDF)](https://github.com/rutikeshpawar/Rutikesh-Certificates/blob/4bd93bc3611dc1206c060acc4b3f33e074ad5a24/Elavate_Lab/Elevate_Lab_Certificate.pdf)  
 
 📸 Certificate Preview:  
 ![Elevate Labs Certificate](./Elavate_Lab/Certificate_SS.png)
