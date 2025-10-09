@@ -12,6 +12,23 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 > Completed with distinction. Skills covered: SQL, Excel, Power BI, Tableau, Python, EDA, ML, Dashboarding.
 
 --- 
+
+### 💼 Internship Achievement – Aivariant
+
+**Data Analyst Internship – Aivariant**  
+- **Duration:** 03 Apr 2025 – 03 Oct 2025  
+- **Recognition:** Successfully completed internship project  
+- **Key Focus Areas:**  
+  - Data Cleaning, Processing, and Visualization  
+  - SQL, Excel, Tableau, and Python for Data Analytics  
+  - Real-world business problem solving  
+  - Reporting actionable insights for decision-making  
+
+📂 [Download Certificate (PDF)](./AIVariant_Internship_Certificate.pdf)  
+
+📸 Certificate Preview:  
+![Aivariant Internship Certificate](./AIVariant_Internship_Certificate.png)
+
 ## 🚀 Internship Achievement
 
 **Data Analyst Internship – Elevate Labs**  
