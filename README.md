@@ -24,10 +24,10 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
   - Real-world business problem solving  
   - Reporting actionable insights for decision-making  
 
-📂 [Download Certificate (PDF)](./AIVariant_Internship_Certificate.pdf)  
+📂 [Download Certificate (PDF)](./ExcelR_Intership_Certificate/AIVariant_Internship_Certificate.pdf)  
 
 📸 Certificate Preview:  
-![Aivariant Internship Certificate](./AIVariant_Internship_Certificate.png)
+![Aivariant Internship Certificate](./ExcelR_Intership_Certificate/AIVariant_Internship_Certificate.png)
 
 ## 🚀 Internship Achievement
 
