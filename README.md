@@ -65,7 +65,34 @@ This repository contains verified certificates earned from Devtown, Simplilearn,
 
 ---
 
-## 🎓 Professional Certifications
+## 🎓Oracle  Professional Certifications
+
+## 🏆 Oracle Certified Professional – Analytics Cloud 2025
+
+**Certification:** Oracle Analytics Cloud 2025 Certified Professional  
+**Issued by:** Oracle University  
+**Date of Issue:** 28 October 2025  
+**Valid Until:** 28 October 2027  
+**Credential ID:** 322116401OCIEA25OCP  
+
+📂 ![View Certificate (PNG)](oracle-certifications/Oracle_Analytics_Cloud/Oracle_Analytics_Cloud_Certificate.png)
+
+📂 [View Full PDF Certificate](oracle-certifications/Oracle_Analytics_Cloud/Oracle_Analytics_Cloud.pdf)
+
+📸 Badge Preview:  
+![Oracle Analytics Cloud Badge](oracle-certifications/Oracle_Analytics_Cloud/Oracle_Analytics_Cloud.jpg)
+
+### 🎯 Skills Validated:
+- Advanced Oracle Analytics Cloud Functions  
+- Data Visualization & Dashboard Design  
+- Cloud-based Data Modelling  
+- Machine Learning in Oracle Analytics  
+- Data Integration and Business Insights  
+
+---
+
+This certification validates my professional-level expertise in **Oracle Analytics Cloud**, empowering me to build intelligent, data-driven solutions using Oracle’s cloud analytics platform.
+
 
 ## Oracle Certified Foundations Associate
 **Issued by:** Oracle University  
