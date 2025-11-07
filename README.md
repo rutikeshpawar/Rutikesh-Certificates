@@ -159,13 +159,13 @@ This certification validates my skills in:
 **Valid Until:** 30 October 2027  
 **Credential ID:** 322116401OCI25GAIOCP  
 
-📂 [View Certificate (PDF)](./oracle-certifications/Oracle_Generative_AI/Generative_AI_Certificate_SS.pdf)
+📂 [View Certificate (PDF)](./oracle-certifications/Oracle_Generative_AI/Generative_AI_Certificate.pdf)
 
 📸 Certificate Preview:  
 ![Oracle Generative AI Certificate](./oracle-certifications/Oracle_Generative_AI/Generative_AI_Certificate_SS.png)
 
 🏅 Badge Preview:  
-![Oracle Generative AI Badge](./oracle-certifications/Oracle_Generative_AI/Generative_AI_Certificate_SS.jpg)
+![Oracle Generative AI Badge](./oracle-certifications/Oracle_Generative_AI/Generative_AI_Logo.jpg)
 
 ### 🎯 Skills Validated:
 - Generative AI Concepts and Applications  
