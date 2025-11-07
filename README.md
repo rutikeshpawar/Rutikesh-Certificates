@@ -151,6 +151,30 @@ This certification validates my skills in:
 
 ---
 
+## 🤖 Oracle Certified Professional – Generative AI 2025
+
+**Certification:** Oracle Cloud Infrastructure 2025 Certified Generative AI Professional  
+**Issued by:** Oracle University  
+**Date of Issue:** 30 October 2025  
+**Valid Until:** 30 October 2027  
+**Credential ID:** 322116401OCI25GAIOCP  
+
+📂 [View Certificate (PDF)](./Oracle_Generative_AI_Certificate.pdf)
+
+📸 Certificate Preview:  
+![Oracle Generative AI Certificate](./Oracle_Generative_AI_Certificate.png)
+
+🏅 Badge Preview:  
+![Oracle Generative AI Badge](./Oracle_Generative_AI_Badge.jpg)
+
+### 🎯 Skills Validated:
+- Generative AI Concepts and Applications  
+- Oracle Cloud Infrastructure (OCI) for AI Workloads  
+- Prompt Engineering and Model Fine-tuning  
+- Responsible AI and Governance  
+- AI Data Pipeline and Integration in Oracle Cloud  
+
+---
 
 ## ✅ Devtown Certificates
 ### Python Zero to Hero
